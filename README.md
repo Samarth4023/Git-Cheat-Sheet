@@ -1,7 +1,3 @@
-Here's a **complete Git cheat sheet** covering nearly all Git commands categorized for easy reference.  
-
----
-
 # **📝 Git Cheat Sheet: The Ultimate Guide**  
 _Last Updated: 2025_
 
@@ -221,4 +217,4 @@ git count-objects -v                   # Count objects in repository
 
 ---
 
-This cheat sheet includes **almost all** Git commands that exist! Let me know if you need **any specific explanation** or additional details. 🚀
+This cheat sheet includes **almost all** Git commands that exist!
