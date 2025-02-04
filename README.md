@@ -218,7 +218,6 @@ git submodule deinit -f --all                   # Remove all submodules
 ## **🧪 Advanced Git Features**
 ```sh
 git show <commit>              # Show details of a specific commit
-git reflog                     # Show reference log (history of HEAD changes)
 git shortlog                   # Summarize commit history by author
 git whatchanged                # Show file changes with commit history
 git archive                    # Create an archive from a repository
